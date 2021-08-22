@@ -1,0 +1,5 @@
+console . writeline "Preparar..."
+console . readkey() 
+console writeline "Apontar..."
+console . readkey() 
+console . writeline "FOGO!"
