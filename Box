@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>dev_cs</RootNamespace>
+  </PropertyGroup>
+
+</Project>
+
+console . writeline +-----------+
+console . writeline | Marcello  |
+console writeline   +-----------+
