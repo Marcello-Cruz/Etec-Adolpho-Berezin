@@ -1,0 +1,21 @@
+using System;
+
+namespace Soma
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+          double n1,n2;
+          string numerodigitado;
+          Console.Write("Digite o primeiro valor:")
+          n1 = Convert.ToDouble(Console.Readline())
+
+          Console.Write("Digite o segundo valor:")
+          numerodigitado = Console.Readline()
+          n2 = Convert.ToDouble(numerodigitado) 
+          double resultado = n1 + n2
+          Console.Writeline($"Soma: (resultado)")      
+          }
+    }
+}
