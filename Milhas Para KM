@@ -1,0 +1,16 @@
+using System;
+
+namespace milhasparakm
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            Double milhasdigitada milhasparakm;
+            Console.Write("Digite uma medida (em milhas):");
+            milhasdigitada = Convert.ToDouble(Console.Readline())
+            
+            milhasparakm = milhasdigitada * 1.609;
+
+            Console.Writeline ($(milhasparakm) km)
