@@ -1,0 +1,18 @@
+using System;
+
+namespace Medidas
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+         double metrosDigitado, metrosParaCm, metrosParaKm
+         Console.Write("Ente com a medida em metros (m): ");
+         metrosDigitado = Convert.ToDouble(Console.Readline());
+         Console.WriteLine("\n----Equivalência----")
+         MetrosParaCm = metrosDigitado*100
+         MetrosParaKm = metrosDigitado/1000
+         Console.Writeline($(metrosParaCm) cm")
+         Console.WriteLine($(metrosDigitado) m")
+         Console.WriteLine($(metrosParaKm) km")
+}
