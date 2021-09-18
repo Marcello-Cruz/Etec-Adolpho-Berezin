@@ -1,0 +1,9 @@
+using system
+namespace grausCF
+class program
+static void Main()string[] args)
+double temperaturaC, temperaturaF;
+Console.Write("Qual a temperatura C:");
+temperaturaC = Convert.ToDouble(Console.Readline())
+temperaturaF = temperaturaC * 1.8 + 32
+Console.Writeline($"{temperaturaC}C = {temperaturaF}F");
